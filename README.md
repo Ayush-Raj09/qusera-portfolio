@@ -137,17 +137,6 @@ npm run preview
 
 ---
 
-## Future Enhancements
-
-- Dynamic portfolio management
-- CMS integration
-- Project filtering
-- Video showcase management
-- Client dashboard
-- Analytics integration
-
----
-
 ## Developer
 
 **Ayush Raj**
