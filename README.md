@@ -1,16 +1,162 @@
-# React + Vite
+# QUSERA
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> Create. Scale. Dominate.
 
-Currently, two official plugins are available:
+A premium portfolio-first creative agency website built to showcase branding, content creation, motion graphics, CGI, photography, web experiences, and digital campaigns.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Inspired by modern creative studio websites, QUSERA focuses on visual storytelling, immersive interactions, and portfolio presentation rather than traditional service-based layouts.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Overview
 
-## Expanding the ESLint configuration
+QUSERA is designed as a creative portfolio platform where projects, campaigns, videos, branding work, and digital experiences take center stage.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The website emphasizes:
+
+- Portfolio-first presentation
+- Editorial-style layouts
+- Smooth scrolling experiences
+- Interactive visual elements
+- Modern creative agency aesthetics
+- Responsive user experience
+
+---
+
+## Tech Stack
+
+### Frontend
+
+- React (Vite)
+- JavaScript
+- Tailwind CSS
+
+### Animations
+
+- GSAP
+- GSAP ScrollTrigger
+- Motion
+- Lenis
+
+### 3D & Interactive Graphics
+
+- Three.js
+- React Three Fiber
+- Drei
+
+### Version Control
+
+- Git
+- GitHub
+
+---
+
+## Key Features
+
+- Modern creative agency UI
+- Portfolio showcase sections
+- Featured work gallery
+- Showreel section
+- Responsive design
+- Smooth scrolling experience
+- Three.js-powered hero interactions
+- Animated transitions and reveals
+- Modular React component architecture
+- Easy project showcase management
+
+---
+
+## Project Structure
+
+```text
+src/
+├── assets/
+│   ├── images/
+│   ├── videos/
+│   └── icons/
+│
+├── components/
+│   ├── Navbar.jsx
+│   ├── Button.jsx
+│   ├── ProjectCard.jsx
+│   ├── Counter.jsx
+│   ├── Marquee.jsx
+│   └── ThreeBackground.jsx
+│
+├── sections/
+│   ├── Hero.jsx
+│   ├── FeaturedWork.jsx
+│   ├── PortfolioGrid.jsx
+│   ├── Showreel.jsx
+│   ├── Clients.jsx
+│   ├── Process.jsx
+│   ├── Testimonials.jsx
+│   ├── Contact.jsx
+│   └── Footer.jsx
+│
+├── data/
+├── styles/
+├── App.jsx
+├── main.jsx
+└── index.css
+```
+
+---
+
+## Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Ayush-Raj09/qusera-portfolio.git
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start development server:
+
+```bash
+npm run dev
+```
+
+Build for production:
+
+```bash
+npm run build
+```
+
+Preview production build:
+
+```bash
+npm run preview
+```
+
+---
+
+## Future Enhancements
+
+- Dynamic portfolio management
+- CMS integration
+- Project filtering
+- Video showcase management
+- Client dashboard
+- Analytics integration
+
+---
+
+## Developer
+
+**Ayush Raj**
+
+GitHub:
+https://github.com/Ayush-Raj09
+
+---
+
+## License
+
+This project is intended for the QUSERA brand and portfolio showcase.git add README.md
